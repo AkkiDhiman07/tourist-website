@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Dhiman
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
